@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1276b4c4.js",
+    "pdfmake.js": "/static/js/pdfmake.28eec680.chunk.js",
+    "canvg.js": "/static/js/canvg.db2ef4cb.chunk.js",
+    "xlsx.js": "/static/js/xlsx.991e4a41.chunk.js",
+    "static/js/959.975b22f4.chunk.js": "/static/js/959.975b22f4.chunk.js",
+    "index.html": "/index.html",
+    "main.1276b4c4.js.map": "/static/js/main.1276b4c4.js.map",
+    "pdfmake.28eec680.chunk.js.map": "/static/js/pdfmake.28eec680.chunk.js.map",
+    "canvg.db2ef4cb.chunk.js.map": "/static/js/canvg.db2ef4cb.chunk.js.map",
+    "959.975b22f4.chunk.js.map": "/static/js/959.975b22f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1276b4c4.js"
+  ]
+}
